@@ -1,0 +1,13 @@
+[project]
+name = "ml-foundations"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.11.0",
+    "nnfs>=0.5.1",
+    "notebook>=7.5.7",
+    "numpy>=2.4.6",
+]
